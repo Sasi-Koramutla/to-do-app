@@ -1,4 +1,28 @@
 body{
-    margin:50px;
-    background-color: rgb(179, 171, 106);
+    margin:10px;
+}
+
+.jumbotron{
+    border-radius: 5px;
+    padding:20px;
+}
+
+.form-signin{
+    width:50%;
+    margin-left: 25%;
+    justify-content:center;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.btn-primary{
+    margin-top: 10px;
+    margin-left:25%;
+    width:50%;
+}
+
+
+input{
+    margin-top: 10px;
 }
